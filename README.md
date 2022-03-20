@@ -1,2 +1,2 @@
 # bank_marketing_strategy
-clustering project
+This project aims to define a bank marketing strategy.
